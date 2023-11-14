@@ -14,6 +14,10 @@ After setting these options, you can click the "PDF Diff" button to compare the 
 Upon completion, a pop-up message will indicate the success of the comparison. 
 You can then choose to select another set of files to compare or close the application.
 
+# Tkinter
+
+![image](https://github.com/whereismybrain/Identical_PDF_check/assets/115625134/c659033a-de4a-47c6-9cdb-02c7160c7aaf)
+
 
 
 
